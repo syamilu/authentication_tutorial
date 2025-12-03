@@ -71,4 +71,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'mobileapp-tutorial.firebasestorage.app',
     iosBundleId: 'com.example.authenticationTutorial',
   );
+
 }
